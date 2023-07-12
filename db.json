@@ -1,0 +1,184 @@
+[
+    {
+     "id": 1,
+     "nombre": "Acido folico",
+     "descripcion": "descripcion 1",
+     "categoria": "categoria 1",
+     "precio": 26,
+     "farmacia": "1223",
+     "cantidad": 100
+    },
+    {
+     "id": 2,
+     "nombre": "Alprazolam",
+     "descripcion": "descripcion 2",
+     "categoria": "categoria 2",
+     "precio": 66,
+     "farmacia": "1245",
+     "cantidad": 95
+    },
+    {
+     "id": 3,
+     "nombre": "Biotina",
+     "descripcion": "descripcion 3",
+     "categoria": "categoria 3",
+     "precio": 31,
+     "farmacia": "1278",
+     "cantidad": 120
+    },
+    {
+     "id": 4,
+     "nombre": "Captopril",
+     "descripcion": "descripcion 4",
+     "categoria": "categoria 4",
+     "precio": 44,
+     "farmacia": "1280",
+     "cantidad": 80
+    },
+    {
+     "id": 5,
+     "nombre": "Carbamazepina",
+     "descripcion": "descripcion 5",
+     "categoria": "categoria 5",
+     "precio": 7,
+     "farmacia": "1283",
+     "cantidad": 110
+     
+    },
+    {
+     "id": 6,
+     "nombre": "Diazepam",
+     "descripcion": "descripcion 6",
+     "categoria": "categoria 6",
+     "precio": 17,
+     "farmacia": "1289",
+     "cantidad": 150
+    },
+    {
+     "id": 7,
+     "nombre": "Dipirona",
+     "descripcion": "descripcion 7",
+     "categoria": "categoria 7",
+     "precio": 51,
+     "farmacia": "1290",
+     "cantidad": 100
+    },
+    {
+     "id": 8,
+     "nombre": "Enalapril",
+     "descripcion": "descripcion 8",
+     "categoria": "categoria 8",
+     "precio": 18,
+     "farmacia": "1292",
+     "cantidad": 105
+    },
+    {
+     "id": 9,
+     "nombre": "Etionamina",
+     "descripcion": "descripcion 9",
+     "categoria": "categoria 9",
+     "precio": 45,
+     "farmacia": "728",
+     "cantidad": 0
+    },
+    {
+     "id": 10,
+     "nombre": "Fenol",
+     "descripcion": "descripcion 10",
+     "categoria": "categoria 10",
+     "precio": 95,
+     "farmacia": "328",
+     "cantidad": 0
+    },
+    {
+     "id": 11,
+     "nombre": "Glicerina",
+     "descripcion": "descripcion 11",
+     "categoria": "categoria 11",
+     "precio": 91,
+     "farmacia": "283",
+     "cantidad": 90
+    },
+    {
+     "id": 12,
+     "nombre": "Homatropina",
+     "descripcion": "descripcion 12",
+     "categoria": "categoria 12",
+     "precio": 86,
+     "farmacia": "283",
+     "cantidad": 130
+    },
+    {
+     "id": 13,
+     "nombre": "Ibuprofeno",
+     "descripcion": "descripcion 13",
+     "categoria": "categoria 13",
+     "precio": 97,
+     "farmacia": "283",
+     "cantidad": 200
+    },
+    {
+     "id": 14,
+     "nombre": "Ketononazol",
+     "descripcion": "descripcion 14",
+     "categoria": "categoria 14",
+     "precio": 17,
+     "farmacia": "172",
+     "cantidad": 140
+     
+    },
+    {
+     "id": 15,
+     "nombre": "Ketotifeno",
+     "descripcion": "descripcion 15",
+     "categoria": "categoria 15",
+     "precio": 48,
+     "farmacia": "892",
+     "cantidad": 110
+    },
+    {
+     "id": 16,
+     "nombre": "Mentol",
+     "descripcion": "descripcion 16",
+     "categoria": "categoria 16",
+     "precio": 78,
+     "farmacia": "281",
+     "cantidad": 0
+    },
+    {
+     "id": 17,
+     "nombre": "Metronidazol",
+     "descripcion": "descripcion 17",
+     "categoria": "categoria 17",
+     "precio": 1,
+     "farmacia": "729",
+     "cantidad": 70
+    },
+    {
+     "id": 18,
+     "nombre": "Paracetamol",
+     "descripcion": "descripcion 18",
+     "categoria": "categoria 18",
+     "precio": 34,
+     "farmacia": "179",
+     "cantidad": 140
+    },
+    {
+     "id": 19,
+     "nombre": "Penicilina",
+     "descripcion": "descripcion 19",
+     "categoria": "categoria 19",
+     "precio": 75,
+     "farmacia": "271",
+     "cantidad": 300
+    },
+    {
+     "id": 20,
+     "nombre": "Secnidazol",
+     "descripcion": "descripcion 20",
+     "categoria": "categoria 20",
+     "precio": 75,
+     "farmacia": "200",
+     "cantidad": 180
+    }
+   ]
