@@ -4,179 +4,139 @@
    "farmacia": "1223",
    "municipio": "Consolación del Sur",
    "provincia": "Pinar del Rio",
-   "ubicacion": [22.50891011459699, -83.51378955867152],
-   "direccion": "AVE 235A",
-   "telefono": "55671829"
+   "ubicacion": [22.50891011459699, -83.51378955867152]
   },
   {
    "id": 2,
    "farmacia": "1245",
    "municipio": "La Palma",
    "provincia": "Pinar del Rio",
-   "ubicacion": [22.749687175761135, -83.55242016174827],
-   "direccion": "AVE 245B",
-   "telefono": "55691819"
+   "ubicacion": [22.749687175761135, -83.55242016174827]
   },
   {
    "id": 3,
    "farmacia": "1278",
    "municipio": "Los Palacios",
    "provincia": "Pinar del Rio",
-   "ubicacion": [22.58838820797055, -83.24219575667739],
-   "direccion": "AVE 245A",
-   "telefono": "58271109"
+   "ubicacion": [22.58838820797055, -83.24219575667739]
   },
   {
    "id": 4,
    "farmacia": "1280",
    "municipio": "Mantua",
    "provincia": "Pinar del Rio",
-   "ubicacion": [22.28758424257769, -84.28616542300826],
-   "direccion": "AVE 225A",
-   "telefono": "57671820"
+   "ubicacion": [22.28758424257769, -84.28616542300826]
   },
   {
    "id": 5,
    "farmacia": "1283",
    "municipio": "Minas de Matahambre",
    "provincia": "Pinar del Rio",
-   "ubicacion": [22.583811841163204, -83.9478689373621],
-   "direccion": "AVE 215A",
-   "telefono": "55371800"
+   "ubicacion": [22.583811841163204, -83.9478689373621]
   },
   {
    "id": 6,
    "farmacia": "1289",
    "municipio": "San Cristobal",
    "provincia": "Artemisa",
-   "ubicacion": [22.71307774635867, -83.04107360038844],
-   "direccion": "AVE 205A",
-   "telefono": "55672828"
+   "ubicacion": [22.71307774635867, -83.04107360038844]
   },
   {
    "id": 7,
    "farmacia": "1290",
    "municipio": "Bahia Honda",
    "provincia": "Artemisa",
-   "ubicacion": [22.908479942233107, -83.17196879716765],
-   "direccion": "AVE 236B",
-   "telefono": "55677129"
+   "ubicacion": [22.908479942233107, -83.17196879716765]
   },
   {
    "id": 8,
    "farmacia": "1292",
    "municipio": "Bauta",
    "provincia": "Artemisa",
-   "ubicacion": [22.98403617813044, -82.548823411034],
-   "direccion": "AVE 239A",
-   "telefono": "57892134"
+   "ubicacion": [22.98403617813044, -82.548823411034]
   },
   {
    "id": 9,
    "farmacia": "728",
    "municipio": "Mariel",
    "provincia": "Artemisa",
-   "ubicacion": [22.98759168278732, -82.75365830459965],
-   "direccion": "AVE 278A",
-   "telefono": "55271890"
+   "ubicacion": [22.98759168278732, -82.75365830459965]
   },
   {
    "id": 10,
    "farmacia": "328",
    "municipio": "Guira de Melena",
    "provincia": "Artemisa",
-   "ubicacion": [22.796317935518505, -82.51414783588639],
-   "direccion": "AVE 279A",
-   "telefono": "54213427"
+   "ubicacion": [22.796317935518505, -82.51414783588639]
   },
   {
    "id": 11,
    "farmacia": "283",
    "municipio": "Caimito",
    "provincia": "Artemisa",
-   "ubicacion": [22.950944055774958, -82.60225301549747],
-   "direccion": "AVE 231A",
-   "telefono": "55728361"
+   "ubicacion": [22.950944055774958, -82.60225301549747]
   },
   {
    "id": 12,
    "farmacia": "283",
    "municipio": "Alquizar",
    "provincia": "Artemisa",
-   "ubicacion": [22.80628976499975, -82.58474357989438],
-   "direccion": "AVE 238B",
-   "telefono": "53785932"
+   "ubicacion": [22.80628976499975, -82.58474357989438]
   },
   {
    "id": 13,
    "farmacia": "288",
    "municipio": "Guanajay",
    "provincia": "Artemisa",
-   "ubicacion": [22.92226859195981, -82.68565907193052],
-   "direccion": "AVE 221B",
-   "telefono": "55671721"
+   "ubicacion": [22.92226859195981, -82.68565907193052]
   },
   {
    "id": 14,
    "farmacia": "172",
    "municipio": "Candelaria",
    "provincia": "Artemisa",
-   "ubicacion": [22.74464042684213, -82.95534905466555],
-   "direccion": "AVE 273A",
-   "telefono": "55790421"
+   "ubicacion": [22.74464042684213, -82.95534905466555]
   },
   {
    "id": 15,
    "farmacia": "892",
    "municipio": "Arroyo Naranjo",
    "provincia": "La Habana",
-   "ubicacion": [23.018419291369064, -82.33298742936572],
-   "direccion": "AVE 278B",
-   "telefono": "59086822"
+   "ubicacion": [23.018419291369064, -82.33298742936572]
   },
   {
    "id": 16,
    "farmacia": "281",
    "municipio": "Boyeros",
    "provincia": "La Habana",
-   "ubicacion": [22.98802740641193, -82.40746345356334],
-   "direccion": "AVE 238A",
-   "telefono": "59087823"
+   "ubicacion": [22.98802740641193, -82.40746345356334]
   },
   {
    "id": 17,
    "farmacia": "729",
    "municipio": "Centro Habana",
    "provincia": "La Habana",
-   "ubicacion": [23.135400775815455, -82.36913274952944],
-   "direccion": "AVE 267B",
-   "telefono": "56782134"
+   "ubicacion": [23.135400775815455, -82.36913274952944]
   },
   {
    "id": 18,
    "farmacia": "179",
    "municipio": "Cerro",
    "provincia": "La Habana",
-   "ubicacion": [23.100874543881055, -82.38543064158566],
-   "direccion": "AVE 368B",
-   "telefono": "55171878"
+   "ubicacion": [23.100874543881055, -82.38543064158566]
   },
   {
    "id": 19,
    "farmacia": "271",
    "municipio": "Diez de Octubre",
    "provincia": "La Habana",
-   "ubicacion": [23.09705006568399, -82.36000462512807],
-   "direccion": "AVE 255A",
-   "telefono": "55655578"
+   "ubicacion": [23.09705006568399, -82.36000462512807]
   },
   {
    "id": 20,
    "farmacia": "200",
    "municipio": "La Lisa",
    "provincia": "La Habana",
-   "ubicacion": [23.049254704349007, -82.46279262020704],
-   "direccion": "AVE 216A",
-   "telefono": "58879723"
+   "ubicacion": [23.049254704349007, -82.46279262020704]
   }
  ]
