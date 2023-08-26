@@ -1,142 +1,182 @@
 [
-  {
-   "id": 1,
-   "farmacia": "1223",
-   "municipio": "Consolación del Sur",
-   "provincia": "Pinar del Rio",
-   "ubicacion": [22.50891011459699, -83.51378955867152]
-  },
-  {
-   "id": 2,
-   "farmacia": "1245",
-   "municipio": "La Palma",
-   "provincia": "Pinar del Rio",
-   "ubicacion": [22.749687175761135, -83.55242016174827]
-  },
-  {
-   "id": 3,
-   "farmacia": "1278",
-   "municipio": "Los Palacios",
-   "provincia": "Pinar del Rio",
-   "ubicacion": [22.58838820797055, -83.24219575667739]
-  },
-  {
-   "id": 4,
-   "farmacia": "1280",
-   "municipio": "Mantua",
-   "provincia": "Pinar del Rio",
-   "ubicacion": [22.28758424257769, -84.28616542300826]
-  },
-  {
-   "id": 5,
-   "farmacia": "1283",
-   "municipio": "Minas de Matahambre",
-   "provincia": "Pinar del Rio",
-   "ubicacion": [22.583811841163204, -83.9478689373621]
-  },
-  {
-   "id": 6,
-   "farmacia": "1289",
-   "municipio": "San Cristobal",
-   "provincia": "Artemisa",
-   "ubicacion": [22.71307774635867, -83.04107360038844]
-  },
-  {
-   "id": 7,
-   "farmacia": "1290",
-   "municipio": "Bahia Honda",
-   "provincia": "Artemisa",
-   "ubicacion": [22.908479942233107, -83.17196879716765]
-  },
-  {
-   "id": 8,
-   "farmacia": "1292",
-   "municipio": "Bauta",
-   "provincia": "Artemisa",
-   "ubicacion": [22.98403617813044, -82.548823411034]
-  },
-  {
-   "id": 9,
-   "farmacia": "728",
-   "municipio": "Mariel",
-   "provincia": "Artemisa",
-   "ubicacion": [22.98759168278732, -82.75365830459965]
-  },
-  {
-   "id": 10,
-   "farmacia": "328",
-   "municipio": "Guira de Melena",
-   "provincia": "Artemisa",
-   "ubicacion": [22.796317935518505, -82.51414783588639]
-  },
-  {
-   "id": 11,
-   "farmacia": "283",
-   "municipio": "Caimito",
-   "provincia": "Artemisa",
-   "ubicacion": [22.950944055774958, -82.60225301549747]
-  },
-  {
-   "id": 12,
-   "farmacia": "283",
-   "municipio": "Alquizar",
-   "provincia": "Artemisa",
-   "ubicacion": [22.80628976499975, -82.58474357989438]
-  },
-  {
-   "id": 13,
-   "farmacia": "288",
-   "municipio": "Guanajay",
-   "provincia": "Artemisa",
-   "ubicacion": [22.92226859195981, -82.68565907193052]
-  },
-  {
-   "id": 14,
-   "farmacia": "172",
-   "municipio": "Candelaria",
-   "provincia": "Artemisa",
-   "ubicacion": [22.74464042684213, -82.95534905466555]
-  },
-  {
-   "id": 15,
-   "farmacia": "892",
-   "municipio": "Arroyo Naranjo",
-   "provincia": "La Habana",
-   "ubicacion": [23.018419291369064, -82.33298742936572]
-  },
-  {
-   "id": 16,
-   "farmacia": "281",
-   "municipio": "Boyeros",
-   "provincia": "La Habana",
-   "ubicacion": [22.98802740641193, -82.40746345356334]
-  },
-  {
-   "id": 17,
-   "farmacia": "729",
-   "municipio": "Centro Habana",
-   "provincia": "La Habana",
-   "ubicacion": [23.135400775815455, -82.36913274952944]
-  },
-  {
-   "id": 18,
-   "farmacia": "179",
-   "municipio": "Cerro",
-   "provincia": "La Habana",
-   "ubicacion": [23.100874543881055, -82.38543064158566]
-  },
-  {
-   "id": 19,
-   "farmacia": "271",
-   "municipio": "Diez de Octubre",
-   "provincia": "La Habana",
-   "ubicacion": [23.09705006568399, -82.36000462512807]
-  },
-  {
-   "id": 20,
-   "farmacia": "200",
-   "municipio": "La Lisa",
-   "provincia": "La Habana",
-   "ubicacion": [23.049254704349007, -82.46279262020704]
-  }
- ]
+ {
+  "id": 1,
+  "nombre": "Acido folico",
+  "descripcion": "descripcion 1",
+  "categoria": "categoria 1",
+  "precio": 26,
+  "farmacia": "1223",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 2,
+  "nombre": "Alprazolam",
+  "descripcion": "descripcion 2",
+  "categoria": "categoria 2",
+  "precio": 66,
+  "farmacia": "1245",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 3,
+  "nombre": "Biotina",
+  "descripcion": "descripcion 3",
+  "categoria": "categoria 3",
+  "precio": 31,
+  "farmacia": "1278",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 4,
+  "nombre": "Captopril",
+  "descripcion": "descripcion 4",
+  "categoria": "categoria 4",
+  "precio": 44,
+  "farmacia": "1280",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 5,
+  "nombre": "Carbamazepina",
+  "descripcion": "descripcion 5",
+  "categoria": "categoria 5",
+  "precio": 7,
+  "farmacia": "1283",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 6,
+  "nombre": "Diazepam",
+  "descripcion": "descripcion 6",
+  "categoria": "categoria 6",
+  "precio": 17,
+  "farmacia": "1289",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 7,
+  "nombre": "Dipirona",
+  "descripcion": "descripcion 7",
+  "categoria": "categoria 7",
+  "precio": 51,
+  "farmacia": "1290",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 8,
+  "nombre": "Enalapril",
+  "descripcion": "descripcion 8",
+  "categoria": "categoria 8",
+  "precio": 18,
+  "farmacia": "1292",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 9,
+  "nombre": "Etionamina",
+  "descripcion": "descripcion 9",
+  "categoria": "categoria 9",
+  "precio": 45,
+  "farmacia": "728",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 10,
+  "nombre": "Fenol",
+  "descripcion": "descripcion 10",
+  "categoria": "categoria 10",
+  "precio": 95,
+  "farmacia": "328",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 11,
+  "nombre": "Glicerina",
+  "descripcion": "descripcion 11",
+  "categoria": "categoria 11",
+  "precio": 91,
+  "farmacia": "283",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 12,
+  "nombre": "Homatropina",
+  "descripcion": "descripcion 12",
+  "categoria": "categoria 12",
+  "precio": 86,
+  "farmacia": "283",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 13,
+  "nombre": "Ibuprofeno",
+  "descripcion": "descripcion 13",
+  "categoria": "categoria 13",
+  "precio": 97,
+  "farmacia": "283",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 14,
+  "nombre": "Ketononazol",
+  "descripcion": "descripcion 14",
+  "categoria": "categoria 14",
+  "precio": 17,
+  "farmacia": "172",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 15,
+  "nombre": "Ketotifeno",
+  "descripcion": "descripcion 15",
+  "categoria": "categoria 15",
+  "precio": 48,
+  "farmacia": "892",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 16,
+  "nombre": "Mentol",
+  "descripcion": "descripcion 16",
+  "categoria": "categoria 16",
+  "precio": 78,
+  "farmacia": "281",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 17,
+  "nombre": "Metronidazol",
+  "descripcion": "descripcion 17",
+  "categoria": "categoria 17",
+  "precio": 1,
+  "farmacia": "729",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 18,
+  "nombre": "Paracetamol",
+  "descripcion": "descripcion 18",
+  "categoria": "categoria 18",
+  "precio": 34,
+  "farmacia": "179",
+  "disponibilidad": "Si"
+ },
+ {
+  "id": 19,
+  "nombre": "Penicilina",
+  "descripcion": "descripcion 19",
+  "categoria": "categoria 19",
+  "precio": 75,
+  "farmacia": "271",
+  "disponibilidad": "No"
+ },
+ {
+  "id": 20,
+  "nombre": "Secnidazol",
+  "descripcion": "descripcion 20",
+  "categoria": "categoria 20",
+  "precio": 75,
+  "farmacia": "200",
+  "disponibilidad": "No"
+ }
+]
