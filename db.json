@@ -1,7 +1,7 @@
 {
   "Medicines": [
   {
-    "id": 1
+    "id": 1,
     "farmacia": "158",
     "nombre": "Amoxicilina",
     "disponibilidad": true
