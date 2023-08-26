@@ -1,110 +1,112 @@
-[
+{
+  "Medicines": [
   {
     "id": 1
     "farmacia": "158",
     "nombre": "Amoxicilina",
-    "disponibilidad": "Si"
+    "disponibilidad": true
   },
   {
     "id": 2,
     "farmacia": "158",
     "nombre": "Paracetamol",
-    "disponibilidad": "No" 
+    "disponibilidad": false
   },
   {
     "id": 3,
     "farmacia": "123",
     "nombre": "Ibuprofeno",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 4,
     "farmacia": "123",
     "nombre": "Odansetron",
-    "disponibilidad": "Si"
+    "disponibilidad": false
   },
   {
     "id": 5,
     "farmacia": "34",
     "nombre": "Citalopram",
-    "disponibilidad": "Si"
+    "disponibilidad": true
   },
   {
     "id": 6,
     "farmacia": "89",
     "nombre": "Migraleve",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 7,
     "farmacia": "57",
     "nombre": "Bluxam",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 8,
     "farmacia": "283",
     "nombre": "Ozempic",
-    "disponibilidad": "Si"
+    "disponibilidad": false
   },
   {
     "id": 9,
     "farmacia": "376",
     "nombre": "Diazepam",
-    "disponibilidad": "Si"
+    "disponibilidad": false
   },
   {
     "id": 10,
     "farmacia": "167",
     "nombre": "Adrenalina B.",
-    "disponibilidad": "Si"
+    "disponibilidad": true
   },
   {
     "id": 11,
     "farmacia": "156",
     "nombre": "Azitromicina",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 12,
     "farmacia": "162",
     "nombre": "Sintrom",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 13,
     "farmacia": "131",
     "nombre": "Augmentine",
-    "disponibilidad": "Si"
+    "disponibilidad": true
   },
   {
     "id": 14,
     "farmacia": "453",
     "nombre": "Buscapina",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 15,
     "farmacia": "132",
     "nombre": "Detam",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 16,
     "farmacia": "273",
     "nombre": "Ivergalen",
-   "disponibilidad": "Si"
+   "disponibilidad": true
   },
   {
     "id": 18,
     "farmacia": "783",
     "nombre": "Salbutamol",
-    "disponibilidad": "No"
+    "disponibilidad": false
   },
   {
     "id": 19,
     "farmacia": "124",
     "nombre": "Aceclofenaco",
-    "disponibilidad": "No"
+    "disponibilidad": false
   }
-]
+  ]
+}
