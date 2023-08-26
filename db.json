@@ -1,37 +1,112 @@
-[
- {
-  "id": 1,
-  "nombre": "Acido folico",
-  "precio": 26,
-  "farmacia": "1223",
-  "disponibilidad": "No"
- },
- {
-  "id": 2,
-  "nombre": "Alprazolam",
-  "precio": 66,
-  "farmacia": "1245",
-  "disponibilidad": "Si"
- },
- {
-  "id": 3,
-  "nombre": "Biotina",
-  "precio": 31,
-  "farmacia": "1278",
-  "disponibilidad": "No"
- },
- {
-  "id": 4,
-  "nombre": "Captopril",
-  "precio": 44,
-  "farmacia": "1280",
-  "disponibilidad": "Si"
- },
- {
-  "id": 5,
-  "nombre": "Carbamazepina",
-  "precio": 7,
-  "farmacia": "1283",
-  "disponibilidad": "Si"
- }
-]
+{
+  "Medicines": [
+  {
+    "id": 1
+    "farmacia": "158",
+    "nombre": "Amoxicilina",
+    "disponibilidad": true
+  },
+  {
+    "id": 2,
+    "farmacia": "158",
+    "nombre": "Paracetamol",
+    "disponibilidad": false
+  },
+  {
+    "id": 3,
+    "farmacia": "123",
+    "nombre": "Ibuprofeno",
+    "disponibilidad": false
+  },
+  {
+    "id": 4,
+    "farmacia": "123",
+    "nombre": "Odansetron",
+    "disponibilidad": false
+  },
+  {
+    "id": 5,
+    "farmacia": "34",
+    "nombre": "Citalopram",
+    "disponibilidad": true
+  },
+  {
+    "id": 6,
+    "farmacia": "89",
+    "nombre": "Migraleve",
+    "disponibilidad": false
+  },
+  {
+    "id": 7,
+    "farmacia": "57",
+    "nombre": "Bluxam",
+    "disponibilidad": false
+  },
+  {
+    "id": 8,
+    "farmacia": "283",
+    "nombre": "Ozempic",
+    "disponibilidad": false
+  },
+  {
+    "id": 9,
+    "farmacia": "376",
+    "nombre": "Diazepam",
+    "disponibilidad": false
+  },
+  {
+    "id": 10,
+    "farmacia": "167",
+    "nombre": "Adrenalina B.",
+    "disponibilidad": true
+  },
+  {
+    "id": 11,
+    "farmacia": "156",
+    "nombre": "Azitromicina",
+    "disponibilidad": false
+  },
+  {
+    "id": 12,
+    "farmacia": "162",
+    "nombre": "Sintrom",
+    "disponibilidad": false
+  },
+  {
+    "id": 13,
+    "farmacia": "131",
+    "nombre": "Augmentine",
+    "disponibilidad": true
+  },
+  {
+    "id": 14,
+    "farmacia": "453",
+    "nombre": "Buscapina",
+    "disponibilidad": false
+  },
+  {
+    "id": 15,
+    "farmacia": "132",
+    "nombre": "Detam",
+    "disponibilidad": false
+  },
+  {
+    "id": 16,
+    "farmacia": "273",
+    "nombre": "Ivergalen",
+   "disponibilidad": true
+  },
+  {
+    "id": 18,
+    "farmacia": "783",
+    "nombre": "Salbutamol",
+    "disponibilidad": false
+  },
+  {
+    "id": 19,
+    "farmacia": "124",
+    "nombre": "Aceclofenaco",
+    "disponibilidad": false
+  }
+  ]
+}
