@@ -10,7 +10,7 @@
     "id": 2,
     "farmacia": "158",
     "nombre": "Paracetamol",
-    "disponibilidad": false
+    "disponibilidad": true
   },
   {
     "id": 3,
